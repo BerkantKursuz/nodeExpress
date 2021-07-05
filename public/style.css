@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 3px solid rebeccapurple;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+nav ul li{
+    margin-right: 30px;
+}
